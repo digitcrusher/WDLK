@@ -24,6 +24,13 @@ for file in "$path"/*; do
 		echo "Znaleziono duplikat: "
 		echo "Oryginał: ${checksum_dict[$checksum]}"
 		echo "Duplikat: $file"
+		while true; do
+			read -p "Czy usunąć plik? [t/N] " odpowiedz
+			case $odpowiedz in
+				[tT]   ) rm "$file"; break ;;
+				[nN]|"") break
+			esac
+		done
 	else
 		checksum_dict[$checksum]="$file"
 	fi
