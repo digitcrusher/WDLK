@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 path_to_inbox="inbox" 
-path_to_output=${2:-"classified"}
+path_to_output=${1:-"classified"}
 
 mkdir -p "$path_to_output"
 
