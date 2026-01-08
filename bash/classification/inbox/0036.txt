@@ -1,0 +1,5 @@
+CATEGORY: misc
+FROM: amet@modi.com
+RCPT: me@mymail.com
+SUBJECT: Velit tempora modi dolor eius.
+BODY: Eius aliquam non dolorem quisquam. Non adipisci quiquia modi. Porro adipisci etincidunt sit etincidunt modi dolor adipisci. Ipsum ut velit non dolor ipsum. Quaerat voluptatem aliquam non sed. Dolorem neque amet modi. Eius aliquam velit ut porro magnam voluptatem modi. Velit adipisci porro neque sed quiquia. Ut porro ipsum tempora dolore voluptatem. Adipisci numquam aliquam est magnam amet dolor.

@@ -1,0 +1,5 @@
+CATEGORY: misc
+FROM: quaerat@amet.com
+RCPT: me@mymail.com
+SUBJECT: Velit etincidunt ipsum quaerat quisquam.
+BODY: Magnam adipisci porro amet est dolore sit eius. Quaerat tempora dolorem voluptatem dolor sit porro dolorem. Ipsum aliquam quisquam adipisci quaerat amet. Aliquam sed modi etincidunt dolorem magnam dolorem. Quiquia porro ut labore dolore porro. Ipsum ut ipsum adipisci modi. Ipsum magnam dolorem ut modi quaerat velit quisquam. Consectetur tempora amet quiquia magnam. Quiquia velit tempora labore consectetur dolore dolor ipsum. Non numquam ut amet dolor dolore sit tempora.

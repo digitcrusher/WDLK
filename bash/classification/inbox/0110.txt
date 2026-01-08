@@ -1,0 +1,5 @@
+CATEGORY: misc
+FROM: ipsum@dolore.com
+RCPT: me@mymail.com
+SUBJECT: Tempora velit sed amet etincidunt numquam ut modi.
+BODY: Eius ipsum magnam dolore dolore aliquam est magnam. Quisquam dolorem velit voluptatem dolore quiquia. Etincidunt sed sit ipsum ipsum dolor amet. Aliquam magnam dolore amet amet. Sit dolor neque tempora dolor magnam. Tempora dolor labore adipisci. Numquam adipisci non quaerat aliquam modi numquam sit. Quaerat etincidunt magnam adipisci etincidunt aliquam. Neque magnam etincidunt ut eius neque.

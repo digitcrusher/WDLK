@@ -1,0 +1,4 @@
+FROM: tempora@amet.com
+RCPT: me@mymail.com
+SUBJECT: Etincidunt est quiquia labore ipsum consectetur.
+BODY: Velit dolor velit quaerat consectetur sed est modi. Dolore ut non quaerat. Quaerat magnam magnam aliquam labore sit. Tempora adipisci quaerat est sit. Modi est modi modi eius. Non velit consectetur eius modi eius ut numquam.

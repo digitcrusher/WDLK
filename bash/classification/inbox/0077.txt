@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: velit@tempora.com
+RCPT: me@mymail.com
+SUBJECT: Est magnam dolore quaerat adipisci.
+BODY: Dolor dolore porro sed velit modi. Non ipsum tempora eius ut amet. Modi numquam ipsum eius modi sed velit ut. Adipisci numquam porro ut. Tempora magnam sit numquam voluptatem adipisci. Velit est consectetur etincidunt labore porro velit.

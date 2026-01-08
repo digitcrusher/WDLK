@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: neque@quaerat.com
+RCPT: me@mymail.com
+SUBJECT: Consectetur voluptatem eius voluptatem neque.
+BODY: Non adipisci velit quaerat amet tempora eius voluptatem. Dolorem dolorem modi dolorem dolor magnam quaerat quaerat. Eius adipisci dolorem adipisci numquam consectetur sed. Amet ut consectetur tempora adipisci. Adipisci tempora porro est est. Velit sit non dolorem quaerat. Velit labore velit porro. Etincidunt ut magnam dolore magnam est.

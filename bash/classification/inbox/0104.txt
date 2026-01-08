@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: quiquia@sed.com
+RCPT: me@mymail.com
+SUBJECT: Ut non dolore magnam.
+BODY: Sit ut ut ipsum. Quiquia ipsum sed neque. Modi ipsum aliquam magnam numquam eius. Etincidunt est dolor dolor voluptatem tempora. Quiquia dolore dolorem sit velit. Voluptatem labore neque porro eius. Est amet est porro velit etincidunt sed. Dolore neque quiquia quaerat. Quaerat quisquam consectetur quaerat ut.

@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: sit@consectetur.com
+RCPT: me@mymail.com
+SUBJECT: Porro adipisci consectetur eius velit aliquam.
+BODY: Dolorem voluptatem ut modi sed sit dolor amet. Amet magnam adipisci modi. Neque neque aliquam modi dolorem. Est ut quaerat ut adipisci dolor labore. Est dolorem quisquam amet dolorem. Eius amet sed dolore. Quisquam dolorem sit amet adipisci est. Quaerat quaerat consectetur tempora quisquam magnam tempora. Est consectetur ut dolorem dolorem adipisci sed.

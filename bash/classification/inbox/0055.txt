@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: dolor@modi.com
+RCPT: me@mymail.com
+SUBJECT: Labore dolor adipisci consectetur.
+BODY: Dolore magnam porro modi sed etincidunt quisquam. Dolor adipisci quaerat magnam eius modi porro amet. Magnam dolore quiquia quisquam. Sed modi labore voluptatem ut. Dolore tempora adipisci neque modi est voluptatem. Dolorem non velit aliquam est. Sit consectetur sit porro non. Quiquia dolor etincidunt sit velit.

@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: neque@quaerat.com
+RCPT: me@mymail.com
+SUBJECT: Ut consectetur modi sit sit ut quisquam labore.
+BODY: Voluptatem porro neque velit amet consectetur quaerat eius. Aliquam quiquia ipsum neque non etincidunt. Velit quiquia voluptatem quiquia. Velit ut ut numquam amet eius. Velit dolorem numquam quaerat amet labore.

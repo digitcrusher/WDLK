@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: ipsum@consectetur.com
+RCPT: me@mymail.com
+SUBJECT: Porro magnam quiquia ut ipsum.
+BODY: Labore ipsum dolorem eius numquam aliquam. Tempora neque voluptatem labore tempora voluptatem. Quisquam numquam numquam tempora non ipsum. Sit sit ipsum sed labore adipisci. Quiquia eius aliquam dolore amet quisquam.

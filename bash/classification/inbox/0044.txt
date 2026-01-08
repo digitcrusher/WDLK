@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: labore@porro.com
+RCPT: me@mymail.com
+SUBJECT: Dolore modi dolore neque sed voluptatem ipsum aliquam.
+BODY: Dolore etincidunt dolorem numquam quisquam tempora. Neque numquam numquam voluptatem porro quisquam sed. Quaerat etincidunt dolorem voluptatem. Aliquam quisquam tempora quisquam ipsum consectetur tempora. Etincidunt voluptatem quiquia sed. Labore est dolor est voluptatem tempora. Voluptatem consectetur etincidunt adipisci dolor. Dolorem quisquam quiquia neque. Etincidunt velit dolor non labore magnam voluptatem quaerat.

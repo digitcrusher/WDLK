@@ -1,0 +1,4 @@
+FROM: porro@ut.com
+RCPT: me@mymail.com
+SUBJECT: Porro voluptatem tempora ut dolore amet quaerat magnam.
+BODY: Velit ut quaerat adipisci magnam modi dolore. Est porro porro dolorem eius tempora. Voluptatem porro etincidunt adipisci quiquia. Eius est dolore ipsum neque sit dolorem. Modi quisquam modi porro etincidunt dolor. Tempora sed magnam dolorem dolore ipsum dolor dolor.

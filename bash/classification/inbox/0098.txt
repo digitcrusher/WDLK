@@ -1,0 +1,5 @@
+CATEGORY: misc
+FROM: aliquam@eius.com
+RCPT: me@mymail.com
+SUBJECT: Dolor voluptatem modi adipisci velit.
+BODY: Dolore tempora magnam dolor consectetur tempora. Quiquia porro aliquam porro adipisci quisquam sit. Dolore modi consectetur non numquam voluptatem labore. Non adipisci ipsum amet numquam. Quaerat numquam aliquam neque. Quaerat amet dolorem eius amet aliquam adipisci magnam. Non quisquam velit sit ut.

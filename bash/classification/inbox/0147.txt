@@ -1,0 +1,5 @@
+CATEGORY: misc
+FROM: quiquia@eius.com
+RCPT: me@mymail.com
+SUBJECT: Labore voluptatem sit magnam aliquam ut velit.
+BODY: Sed dolore sed ut magnam eius aliquam. Est ipsum sit quaerat quaerat. Adipisci etincidunt eius eius. Numquam etincidunt aliquam quiquia voluptatem quiquia. Labore porro neque ut dolore amet adipisci. Amet quiquia aliquam est. Quaerat quisquam adipisci velit. Sit amet ipsum etincidunt ipsum. Neque voluptatem non velit.

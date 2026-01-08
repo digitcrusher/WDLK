@@ -1,0 +1,5 @@
+CATEGORY: misc
+FROM: quisquam@non.com
+RCPT: me@mymail.com
+SUBJECT: Magnam est aliquam neque quiquia voluptatem dolore velit.
+BODY: Tempora dolor dolor numquam sit. Tempora sed quiquia eius est amet. Etincidunt adipisci neque dolorem. Modi aliquam quiquia numquam. Magnam magnam dolor sed quaerat. Tempora velit tempora magnam labore adipisci etincidunt eius. Sed sed dolore adipisci ipsum ut neque modi. Quiquia sit ut amet numquam.

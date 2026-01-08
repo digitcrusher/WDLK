@@ -1,0 +1,4 @@
+FROM: ut@dolorem.com
+RCPT: me@mymail.com
+SUBJECT: Neque ut eius dolorem est modi ipsum ut.
+BODY: Consectetur dolorem voluptatem tempora ut. Non neque ipsum ipsum dolore quaerat. Dolorem neque magnam magnam eius adipisci adipisci. Quaerat velit numquam ipsum quiquia eius porro ipsum. Amet quiquia eius tempora quiquia. Dolore consectetur dolor numquam quisquam dolore. Dolore eius aliquam dolor eius modi quaerat.

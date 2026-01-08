@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: amet@ut.com
+RCPT: me@mymail.com
+SUBJECT: Quaerat sed magnam labore.
+BODY: Numquam dolor magnam adipisci. Adipisci dolorem dolorem dolore quiquia dolorem aliquam consectetur. Sed quisquam velit dolore consectetur magnam tempora. Amet numquam quaerat porro. Neque numquam velit consectetur ipsum. Sit adipisci dolorem est ipsum numquam.

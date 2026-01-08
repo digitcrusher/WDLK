@@ -1,0 +1,5 @@
+CATEGORY: misc
+FROM: etincidunt@numquam.com
+RCPT: me@mymail.com
+SUBJECT: Tempora numquam etincidunt non ipsum sed labore.
+BODY: Eius modi labore labore neque eius aliquam modi. Ut neque neque sit. Sed dolore adipisci non amet. Aliquam non numquam sit ut porro velit magnam. Voluptatem non aliquam sit sed amet consectetur consectetur. Adipisci est neque est magnam sed labore. Amet magnam velit tempora magnam magnam. Dolor dolor velit dolorem aliquam.

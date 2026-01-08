@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: neque@amet.com
+RCPT: me@mymail.com
+SUBJECT: Modi magnam porro ipsum numquam.
+BODY: Non sed aliquam est magnam adipisci aliquam eius. Sed tempora ut neque labore dolorem tempora quiquia. Est velit neque modi velit quaerat. Porro sit labore non adipisci. Modi eius non dolorem. Sit non non quiquia sed consectetur quaerat.

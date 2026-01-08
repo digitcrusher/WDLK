@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: dolor@quaerat.com
+RCPT: me@mymail.com
+SUBJECT: Quiquia dolore consectetur velit dolorem labore tempora.
+BODY: Dolorem adipisci dolorem dolorem aliquam labore. Ut etincidunt consectetur est sed sed numquam dolor. Quiquia adipisci aliquam tempora. Ut sed est sed quiquia ipsum quisquam. Ipsum est modi magnam. Dolor dolore velit labore quaerat. Quiquia neque est neque consectetur dolorem magnam. Porro porro neque dolore eius. Dolor non porro est voluptatem.

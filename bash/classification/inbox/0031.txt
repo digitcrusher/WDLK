@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: est@dolor.com
+RCPT: me@mymail.com
+SUBJECT: Sed labore sit consectetur etincidunt amet.
+BODY: Aliquam sit tempora numquam. Velit amet quisquam ipsum numquam non velit magnam. Quaerat porro labore neque voluptatem ut velit. Magnam ipsum sit dolore consectetur eius consectetur. Ut modi magnam dolore. Tempora tempora neque sed aliquam labore dolor non. Adipisci ipsum dolore tempora aliquam. Sed quisquam magnam ut eius porro.

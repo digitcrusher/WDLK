@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: magnam@dolore.com
+RCPT: me@mymail.com
+SUBJECT: Velit adipisci quisquam tempora.
+BODY: Quiquia numquam sit tempora quisquam adipisci neque. Ipsum amet est ut amet tempora etincidunt consectetur. Est dolore dolore dolor est. Adipisci ut non eius consectetur neque ut voluptatem. Consectetur sit amet ipsum dolorem tempora ut adipisci. Magnam dolore dolor dolorem dolor porro.

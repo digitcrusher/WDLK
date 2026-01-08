@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: etincidunt@voluptatem.com
+RCPT: me@mymail.com
+SUBJECT: Porro dolore consectetur tempora neque velit.
+BODY: Tempora voluptatem dolore porro non adipisci. Etincidunt amet tempora magnam tempora adipisci quaerat voluptatem. Non quisquam sed quaerat dolor dolore. Voluptatem neque voluptatem eius consectetur dolorem quiquia. Tempora aliquam voluptatem sed magnam. Quiquia est quisquam ipsum. Sed est sit est. Magnam velit consectetur est aliquam. Est dolor aliquam magnam neque amet labore.

@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: sit@est.com
+RCPT: me@mymail.com
+SUBJECT: Consectetur labore adipisci sit.
+BODY: Quiquia est quisquam non adipisci. Etincidunt tempora amet neque consectetur magnam ut. Magnam ut quiquia dolore. Voluptatem consectetur sed ut. Labore non tempora dolorem labore etincidunt. Etincidunt quisquam aliquam velit quisquam sit. Ut consectetur quaerat non. Sit sed sed non non. Sed quisquam adipisci magnam sed adipisci labore velit. Non magnam labore magnam ut sed dolor neque.

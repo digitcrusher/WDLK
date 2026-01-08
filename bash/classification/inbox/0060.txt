@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: ipsum@magnam.com
+RCPT: me@mymail.com
+SUBJECT: Dolorem tempora dolorem sit.
+BODY: Quisquam quiquia tempora modi consectetur etincidunt. Labore neque non quiquia. Ipsum ut neque ipsum quisquam aliquam porro. Dolor quisquam adipisci quaerat velit sed ut. Porro sit labore quiquia amet quaerat quaerat. Quaerat labore aliquam quisquam dolor consectetur. Velit quiquia numquam quiquia. Velit ut consectetur dolor. Aliquam modi labore quaerat sed numquam.

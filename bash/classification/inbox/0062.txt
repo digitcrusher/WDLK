@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: porro@adipisci.com
+RCPT: me@mymail.com
+SUBJECT: Modi quiquia labore voluptatem dolore tempora.
+BODY: Consectetur est consectetur tempora velit aliquam. Dolor velit neque eius est dolore neque. Dolorem ipsum consectetur etincidunt amet est est. Labore porro dolorem labore eius non ipsum. Dolor est numquam quisquam dolore consectetur. Numquam sed sit ipsum sed. Adipisci sit quisquam quisquam sed neque porro velit. Numquam etincidunt eius neque dolore non magnam.

@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: dolorem@voluptatem.com
+RCPT: me@mymail.com
+SUBJECT: Eius aliquam aliquam dolor sed neque.
+BODY: Dolorem aliquam labore est. Dolore sit voluptatem consectetur. Ipsum porro sit modi numquam. Tempora dolor amet labore. Est quaerat ut dolorem dolor. Dolorem adipisci eius ut. Magnam non ut neque dolorem dolore. Amet voluptatem amet consectetur porro modi labore.

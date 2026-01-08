@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: velit@magnam.com
+RCPT: me@mymail.com
+SUBJECT: Magnam dolor adipisci amet labore adipisci numquam.
+BODY: Non voluptatem modi quisquam etincidunt. Quiquia modi consectetur magnam est tempora quiquia. Quisquam magnam non consectetur numquam. Dolorem sed numquam eius labore. Quaerat voluptatem modi adipisci ipsum ut. Ipsum ipsum est quaerat numquam aliquam consectetur consectetur. Quiquia est adipisci consectetur. Non ut velit labore tempora quiquia adipisci modi. Ut quiquia dolore neque.

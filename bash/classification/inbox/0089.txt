@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: dolorem@quaerat.com
+RCPT: me@mymail.com
+SUBJECT: Sit adipisci sed quisquam.
+BODY: Quiquia neque numquam porro. Quaerat dolor magnam porro amet numquam labore. Modi sed amet dolor adipisci quiquia. Velit non labore ipsum neque magnam consectetur. Adipisci voluptatem tempora sit. Est neque sit sed magnam quaerat. Neque etincidunt amet non porro etincidunt dolor. Adipisci dolor adipisci amet voluptatem quaerat tempora aliquam. Tempora sed adipisci neque tempora porro consectetur.

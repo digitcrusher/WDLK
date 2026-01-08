@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: porro@non.com
+RCPT: me@mymail.com
+SUBJECT: Sed porro ipsum porro quiquia ut non.
+BODY: Quiquia sed quiquia magnam non modi. Amet modi consectetur velit quisquam dolore etincidunt porro. Velit ut porro aliquam amet. Dolor dolorem est est est velit. Modi modi dolorem neque. Quiquia dolore ipsum labore porro. Etincidunt numquam aliquam modi. Neque aliquam quiquia ipsum velit sit labore magnam. Sit porro numquam quiquia non.

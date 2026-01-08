@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: quiquia@porro.com
+RCPT: me@mymail.com
+SUBJECT: Sit neque neque etincidunt voluptatem aliquam adipisci sed.
+BODY: Voluptatem dolor quaerat quisquam ipsum. Dolore adipisci dolor non dolore numquam tempora. Magnam eius etincidunt adipisci eius. Dolor labore voluptatem sit. Eius voluptatem quaerat consectetur quisquam aliquam quiquia. Ipsum eius magnam numquam dolor est dolor. Quiquia quisquam sit dolor non sit.

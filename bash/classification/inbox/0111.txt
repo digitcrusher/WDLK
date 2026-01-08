@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: sed@labore.com
+RCPT: me@mymail.com
+SUBJECT: Quaerat etincidunt modi ut.
+BODY: Numquam adipisci neque etincidunt quaerat amet numquam. Dolor numquam consectetur dolorem quaerat sit dolorem etincidunt. Dolor numquam numquam quisquam neque adipisci est. Eius numquam quaerat sit. Numquam non sit adipisci. Velit dolor quiquia numquam. Tempora amet quisquam adipisci. Dolor consectetur neque tempora neque ut eius. Ut ipsum dolor quiquia dolorem voluptatem. Aliquam eius non numquam dolore.

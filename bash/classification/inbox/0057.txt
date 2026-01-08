@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: modi@dolor.com
+RCPT: me@mymail.com
+SUBJECT: Tempora voluptatem quaerat porro neque dolore dolore sed.
+BODY: Aliquam tempora sed dolore quiquia porro. Eius amet aliquam amet adipisci. Quisquam adipisci ut consectetur magnam. Dolore porro velit labore dolorem non. Dolor labore modi aliquam. Non amet non voluptatem. Eius etincidunt ut eius quiquia adipisci ut quisquam. Quiquia ut est amet sed modi. Porro labore porro sed labore.

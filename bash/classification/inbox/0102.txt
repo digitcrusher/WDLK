@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: labore@non.com
+RCPT: me@mymail.com
+SUBJECT: Sed porro dolor ut amet non quisquam.
+BODY: Est adipisci etincidunt est eius. Aliquam neque dolor adipisci non quisquam sed sed. Eius quiquia voluptatem amet adipisci tempora. Tempora quiquia numquam est. Labore dolorem dolore quaerat ipsum sed porro. Etincidunt porro dolorem eius.

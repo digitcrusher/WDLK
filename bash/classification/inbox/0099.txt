@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: labore@magnam.com
+RCPT: me@mymail.com
+SUBJECT: Modi dolore dolor eius magnam voluptatem ut.
+BODY: Labore neque magnam adipisci labore est quiquia ut. Numquam modi modi consectetur dolore neque quisquam. Etincidunt modi dolore magnam sit. Tempora voluptatem tempora adipisci consectetur ut quiquia eius. Adipisci numquam consectetur numquam porro quaerat magnam modi. Dolore dolore consectetur sit labore. Amet tempora eius modi labore velit. Dolor aliquam velit ut. Ipsum dolore aliquam magnam consectetur. Quiquia dolore amet magnam aliquam etincidunt adipisci neque.

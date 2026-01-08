@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: quaerat@dolor.com
+RCPT: me@mymail.com
+SUBJECT: Sit amet voluptatem etincidunt.
+BODY: Aliquam ipsum porro est dolore consectetur. Modi dolor sit sed tempora voluptatem. Voluptatem sit sit sit labore porro consectetur. Est adipisci tempora quiquia dolore aliquam. Consectetur dolor aliquam voluptatem dolore sit voluptatem ut. Adipisci aliquam modi non consectetur. Quaerat quaerat adipisci quaerat dolor labore. Ut quisquam porro quisquam est.

@@ -1,0 +1,4 @@
+FROM: dolor@modi.com
+RCPT: me@mymail.com
+SUBJECT: Non non amet ipsum neque quisquam.
+BODY: Consectetur quiquia porro adipisci. Ipsum adipisci ipsum tempora magnam dolorem ipsum. Quaerat consectetur ut sit modi modi. Voluptatem non etincidunt sit labore labore eius amet. Ipsum etincidunt est dolore eius velit aliquam. Quiquia non tempora consectetur velit. Voluptatem non aliquam tempora voluptatem. Neque porro numquam quisquam. Voluptatem modi amet porro adipisci quisquam etincidunt.

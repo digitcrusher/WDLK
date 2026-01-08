@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: dolorem@quaerat.com
+RCPT: me@mymail.com
+SUBJECT: Ipsum tempora aliquam dolorem aliquam aliquam.
+BODY: Velit adipisci dolor porro ipsum. Sed sed ipsum consectetur. Quaerat modi non numquam eius. Non labore numquam sed tempora consectetur. Sed dolor amet est voluptatem velit labore. Adipisci modi magnam consectetur modi ut. Adipisci etincidunt etincidunt tempora voluptatem dolor adipisci numquam.

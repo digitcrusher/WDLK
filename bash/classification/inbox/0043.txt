@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: quaerat@labore.com
+RCPT: me@mymail.com
+SUBJECT: Sit labore consectetur sit ipsum.
+BODY: Eius magnam quaerat amet quaerat sit consectetur porro. Tempora etincidunt sed sit modi neque. Numquam numquam voluptatem dolore etincidunt etincidunt. Ut ut porro eius modi magnam porro quaerat. Tempora dolore est sed numquam. Non ut amet quaerat quisquam labore sed dolore. Magnam magnam quiquia quaerat labore ut neque consectetur. Est eius sed modi. Quisquam dolor magnam non. Magnam velit magnam voluptatem magnam ut quaerat.

@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: tempora@consectetur.com
+RCPT: me@mymail.com
+SUBJECT: Velit est magnam etincidunt.
+BODY: Numquam eius dolore porro dolor numquam. Dolore sed sit est dolor etincidunt aliquam. Porro non voluptatem quisquam etincidunt amet velit. Neque adipisci labore quisquam. Ipsum numquam numquam aliquam. Neque quiquia non porro voluptatem. Dolor sit dolorem ipsum.

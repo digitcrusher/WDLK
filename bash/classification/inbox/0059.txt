@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: dolorem@voluptatem.com
+RCPT: me@mymail.com
+SUBJECT: Amet magnam consectetur velit.
+BODY: Quisquam magnam consectetur ipsum voluptatem dolore dolorem est. Eius consectetur neque dolore consectetur amet. Adipisci non sit non consectetur quaerat adipisci. Consectetur sit numquam ut quiquia dolorem. Voluptatem dolor quiquia magnam etincidunt. Voluptatem aliquam quaerat amet neque dolore. Amet quaerat eius velit. Etincidunt quaerat consectetur etincidunt neque eius. Consectetur est eius amet adipisci neque consectetur aliquam.

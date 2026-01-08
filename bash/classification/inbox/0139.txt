@@ -1,0 +1,4 @@
+FROM: voluptatem@velit.com
+RCPT: me@mymail.com
+SUBJECT: Amet tempora voluptatem voluptatem sed sed numquam.
+BODY: Porro quiquia ut est magnam aliquam ipsum. Modi dolore sit velit quisquam tempora. Quiquia eius ut labore neque eius tempora. Labore eius quiquia ipsum aliquam tempora magnam neque. Eius quaerat est est amet quaerat. Etincidunt non ut magnam magnam. Labore numquam velit eius. Labore quisquam sed quisquam consectetur tempora. Consectetur modi numquam est. Amet dolorem modi adipisci quiquia modi dolorem labore.

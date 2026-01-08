@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: porro@ipsum.com
+RCPT: me@mymail.com
+SUBJECT: Est quisquam est magnam numquam sed.
+BODY: Labore numquam non dolore quisquam amet. Quiquia etincidunt aliquam aliquam. Dolor ut voluptatem sed porro neque est modi. Dolor labore neque labore amet adipisci. Magnam dolore velit modi aliquam voluptatem. Neque velit etincidunt adipisci est consectetur. Magnam neque quisquam est est dolor quiquia dolor. Dolorem labore est sit non. Sit velit quiquia quisquam porro est modi.

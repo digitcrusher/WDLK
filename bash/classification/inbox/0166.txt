@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: magnam@quiquia.com
+RCPT: me@mymail.com
+SUBJECT: Labore dolor quaerat quisquam.
+BODY: Sit neque sed labore. Eius non sed etincidunt consectetur. Sit dolore aliquam aliquam tempora voluptatem dolore. Voluptatem numquam eius quiquia. Quisquam etincidunt tempora ut dolorem quisquam magnam dolorem. Consectetur voluptatem sed consectetur etincidunt consectetur. Consectetur modi neque quaerat ut adipisci sed. Adipisci est quaerat consectetur consectetur quaerat ipsum.

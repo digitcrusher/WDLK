@@ -1,0 +1,5 @@
+CATEGORY: misc
+FROM: voluptatem@quisquam.com
+RCPT: me@mymail.com
+SUBJECT: Dolorem numquam ut sit sed ut velit.
+BODY: Labore quaerat magnam modi. Adipisci numquam porro quiquia dolorem. Dolore sed est labore quisquam neque. Est est eius amet neque. Magnam porro numquam porro modi tempora dolorem. Sit est sed voluptatem voluptatem modi sit. Amet sed numquam aliquam etincidunt aliquam. Tempora dolore amet amet aliquam. Modi dolorem voluptatem tempora non. Aliquam ipsum numquam est velit consectetur dolor.

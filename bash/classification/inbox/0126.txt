@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: ipsum@adipisci.com
+RCPT: me@mymail.com
+SUBJECT: Tempora non voluptatem sed.
+BODY: Quiquia magnam porro modi tempora etincidunt. Quisquam eius consectetur amet amet. Est consectetur sed est amet voluptatem dolor magnam. Non porro magnam non aliquam quisquam. Sed etincidunt adipisci sit modi neque ipsum etincidunt. Quisquam tempora quaerat etincidunt eius. Consectetur ut quisquam quiquia neque magnam modi. Non consectetur est tempora non tempora dolor.

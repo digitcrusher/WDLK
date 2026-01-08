@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: dolore@est.com
+RCPT: me@mymail.com
+SUBJECT: Quiquia voluptatem quisquam numquam neque sit.
+BODY: Neque eius voluptatem est amet amet. Porro quiquia sit dolorem voluptatem. Labore numquam tempora dolor consectetur velit. Non consectetur quaerat labore. Quaerat modi ipsum neque etincidunt voluptatem sit magnam. Numquam ipsum non quisquam. Labore eius non etincidunt ipsum est. Amet adipisci porro adipisci. Adipisci velit quiquia dolore velit. Voluptatem tempora dolorem sit quisquam quaerat ut.

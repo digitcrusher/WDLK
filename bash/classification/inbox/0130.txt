@@ -1,0 +1,5 @@
+CATEGORY: misc
+FROM: dolor@adipisci.com
+RCPT: me@mymail.com
+SUBJECT: Tempora consectetur adipisci dolorem consectetur amet aliquam est.
+BODY: Non eius est ipsum. Aliquam etincidunt velit est numquam dolorem eius. Dolore modi consectetur voluptatem etincidunt neque amet sit. Numquam tempora quaerat tempora etincidunt ipsum sed consectetur. Porro velit etincidunt sed. Neque non porro sed. Quisquam numquam etincidunt eius sed magnam ipsum. Porro eius quisquam voluptatem sed labore quaerat. Consectetur tempora neque tempora adipisci quiquia quiquia velit.

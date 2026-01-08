@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: aliquam@dolorem.com
+RCPT: me@mymail.com
+SUBJECT: Magnam quiquia ut dolor neque non.
+BODY: Dolorem magnam ut non magnam numquam. Amet non tempora dolorem est aliquam velit. Modi voluptatem ipsum voluptatem. Non numquam consectetur tempora sed est. Numquam labore porro neque.

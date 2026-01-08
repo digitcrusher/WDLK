@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: amet@magnam.com
+RCPT: me@mymail.com
+SUBJECT: Sit porro est eius dolorem.
+BODY: Voluptatem est ut quiquia est tempora. Labore voluptatem voluptatem dolore. Tempora consectetur modi modi sed labore est. Quisquam tempora dolor quaerat velit dolorem aliquam. Sit adipisci etincidunt labore. Dolorem sit quisquam adipisci velit amet tempora. Modi quiquia amet non modi sed.

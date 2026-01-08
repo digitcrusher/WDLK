@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: eius@dolorem.com
+RCPT: me@mymail.com
+SUBJECT: Consectetur tempora eius eius labore.
+BODY: Neque voluptatem numquam dolorem labore neque aliquam dolore. Velit quaerat dolorem eius dolor non. Dolore velit modi adipisci eius ipsum. Aliquam labore quaerat ut non dolore. Etincidunt quaerat aliquam eius adipisci. Consectetur quaerat non etincidunt. Adipisci consectetur non quaerat amet labore. Dolore quiquia ut neque magnam neque. Ipsum est sit sed modi magnam consectetur est. Voluptatem etincidunt adipisci modi quisquam amet est.

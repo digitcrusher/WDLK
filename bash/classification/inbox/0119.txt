@@ -1,0 +1,5 @@
+CATEGORY: misc
+FROM: sit@dolore.com
+RCPT: me@mymail.com
+SUBJECT: Ipsum quisquam porro adipisci ipsum quisquam dolorem dolore.
+BODY: Velit magnam dolore quaerat porro quiquia dolore etincidunt. Quaerat modi voluptatem dolor quisquam amet aliquam velit. Non adipisci sit aliquam. Porro quisquam dolore dolorem neque modi. Dolore adipisci ut consectetur non tempora porro. Sit sed dolor modi. Sed adipisci sed quisquam. Quisquam ipsum consectetur dolor sit. Dolore dolor est numquam dolore quisquam numquam magnam.

@@ -1,0 +1,4 @@
+FROM: amet@etincidunt.com
+RCPT: me@mymail.com
+SUBJECT: Adipisci ipsum quisquam labore.
+BODY: Non tempora non porro dolore. Porro ipsum eius quiquia. Velit ipsum adipisci adipisci magnam ut. Sed quiquia porro velit dolorem. Consectetur sit tempora aliquam amet sed velit quaerat.

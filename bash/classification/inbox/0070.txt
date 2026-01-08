@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: ipsum@porro.com
+RCPT: me@mymail.com
+SUBJECT: Dolorem labore ipsum velit quiquia quiquia velit.
+BODY: Numquam aliquam dolor labore porro dolorem ut. Magnam dolore dolorem sed ipsum voluptatem eius etincidunt. Est numquam labore quiquia adipisci velit voluptatem. Amet modi dolor tempora dolor dolor sed quaerat. Neque aliquam sit dolor quisquam etincidunt est. Tempora sit velit sed adipisci numquam modi.

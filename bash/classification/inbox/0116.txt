@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: adipisci@velit.com
+RCPT: me@mymail.com
+SUBJECT: Neque sed sed amet ut ut.
+BODY: Velit magnam labore sit quisquam sed numquam quaerat. Quaerat adipisci numquam porro est. Est magnam dolore quaerat quiquia. Etincidunt aliquam tempora quaerat modi aliquam numquam consectetur. Numquam tempora dolore dolore etincidunt.

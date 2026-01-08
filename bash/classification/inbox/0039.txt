@@ -1,0 +1,4 @@
+FROM: quiquia@sed.com
+RCPT: me@mymail.com
+SUBJECT: Neque ipsum non non consectetur modi porro.
+BODY: Magnam tempora sed neque sed etincidunt ut sit. Magnam aliquam numquam consectetur etincidunt. Est modi velit dolore quisquam. Velit dolorem aliquam tempora dolorem modi. Tempora dolore ut quaerat velit dolorem labore. Labore est non sed ipsum non dolorem modi. Adipisci quisquam etincidunt labore adipisci porro voluptatem ipsum. Est magnam adipisci modi quiquia neque. Est neque magnam quisquam eius porro velit adipisci.

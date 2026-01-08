@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: sed@dolore.com
+RCPT: me@mymail.com
+SUBJECT: Adipisci consectetur tempora aliquam quiquia velit velit.
+BODY: Aliquam voluptatem est non. Ipsum porro velit numquam dolore tempora dolorem. Consectetur dolore ut tempora dolor eius tempora etincidunt. Quiquia quisquam dolore quisquam quaerat. Sed dolor amet tempora. Modi quaerat quisquam magnam neque aliquam labore neque. Voluptatem etincidunt tempora dolorem.

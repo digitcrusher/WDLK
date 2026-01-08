@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: tempora@ipsum.com
+RCPT: me@mymail.com
+SUBJECT: Numquam est sed numquam.
+BODY: Dolor velit neque modi velit porro dolore sed. Etincidunt quiquia amet non labore modi. Ut non eius modi ipsum sed neque. Ut quaerat dolore consectetur labore dolor. Est sed dolore quaerat est non voluptatem consectetur. Quiquia magnam voluptatem magnam modi modi ipsum.

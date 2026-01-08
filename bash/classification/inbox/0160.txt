@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: sed@dolore.com
+RCPT: me@mymail.com
+SUBJECT: Amet tempora neque voluptatem quisquam sed.
+BODY: Tempora numquam non quaerat adipisci quaerat numquam. Dolor porro etincidunt ipsum. Dolore dolor ut modi numquam non numquam est. Non dolor dolore quisquam tempora quiquia sit ipsum. Non sed dolore consectetur consectetur ut voluptatem. Aliquam porro ipsum numquam magnam.

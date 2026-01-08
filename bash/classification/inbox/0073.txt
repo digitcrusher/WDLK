@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: aliquam@voluptatem.com
+RCPT: me@mymail.com
+SUBJECT: Quisquam neque sit est sed.
+BODY: Velit quisquam eius quiquia aliquam dolore sed dolorem. Eius dolor quaerat non velit aliquam. Eius ut etincidunt sed eius eius. Etincidunt numquam etincidunt sed quiquia amet. Dolor dolorem labore neque. Adipisci est sed etincidunt labore.

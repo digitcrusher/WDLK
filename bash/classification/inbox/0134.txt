@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: non@neque.com
+RCPT: me@mymail.com
+SUBJECT: Aliquam sit dolor est voluptatem quaerat ut magnam.
+BODY: Voluptatem consectetur sed magnam est eius non numquam. Modi non est porro. Labore eius dolore dolore ipsum. Non dolore ut dolor. Quisquam adipisci quaerat porro eius adipisci velit. Quisquam sit modi ut etincidunt quaerat sed quaerat. Eius numquam aliquam dolor. Consectetur eius consectetur dolor eius.

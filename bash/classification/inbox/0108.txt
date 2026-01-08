@@ -1,0 +1,5 @@
+CATEGORY: misc
+FROM: ipsum@ut.com
+RCPT: me@mymail.com
+SUBJECT: Porro neque dolorem neque eius numquam magnam dolore.
+BODY: Tempora etincidunt tempora modi est porro consectetur. Dolorem etincidunt voluptatem dolore. Sit sit quisquam non. Etincidunt numquam sed adipisci consectetur sit amet. Voluptatem dolor ipsum consectetur. Voluptatem voluptatem ipsum sit ut sit non. Labore aliquam adipisci neque neque. Voluptatem tempora labore quisquam tempora. Est ut velit eius labore numquam.

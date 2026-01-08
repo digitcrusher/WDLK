@@ -1,0 +1,4 @@
+FROM: etincidunt@adipisci.com
+RCPT: me@mymail.com
+SUBJECT: Ipsum voluptatem adipisci quiquia.
+BODY: Dolore labore velit tempora aliquam. Eius etincidunt labore quaerat dolorem non. Numquam sed amet quiquia etincidunt sed non. Sit aliquam neque quisquam dolore. Velit consectetur modi eius quaerat neque.

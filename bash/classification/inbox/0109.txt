@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: magnam@sit.com
+RCPT: me@mymail.com
+SUBJECT: Adipisci dolorem modi eius.
+BODY: Quiquia sed amet non sit numquam. Numquam neque velit labore adipisci porro. Modi ut sit sit neque labore est consectetur. Velit velit modi eius consectetur consectetur. Etincidunt tempora numquam quisquam voluptatem. Ipsum numquam adipisci est. Sit quiquia ipsum non. Ut etincidunt ut dolorem sed consectetur etincidunt. Quiquia dolor velit ipsum tempora non labore quaerat. Numquam velit velit ut aliquam eius est consectetur.

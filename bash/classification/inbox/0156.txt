@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: tempora@dolorem.com
+RCPT: me@mymail.com
+SUBJECT: Labore neque ipsum tempora.
+BODY: Velit quisquam consectetur quaerat non quisquam quisquam. Quiquia non numquam etincidunt quaerat voluptatem dolore adipisci. Non ut dolor quaerat eius sit. Quisquam ipsum ipsum dolorem numquam modi. Consectetur ipsum voluptatem amet magnam dolor labore. Modi etincidunt dolorem labore neque. Dolor neque magnam amet numquam non velit ut. Consectetur magnam adipisci etincidunt voluptatem.

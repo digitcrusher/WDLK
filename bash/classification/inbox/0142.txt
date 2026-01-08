@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: magnam@tempora.com
+RCPT: me@mymail.com
+SUBJECT: Adipisci aliquam ipsum quiquia velit non.
+BODY: Modi numquam non modi porro labore dolor dolor. Sit dolorem dolore magnam consectetur ut. Ipsum neque modi ipsum quaerat. Est tempora quaerat eius neque dolorem. Sed dolore quisquam sed modi.

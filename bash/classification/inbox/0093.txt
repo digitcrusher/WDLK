@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: magnam@voluptatem.com
+RCPT: me@mymail.com
+SUBJECT: Etincidunt voluptatem ut est eius numquam.
+BODY: Consectetur magnam dolore eius. Eius consectetur quisquam aliquam etincidunt porro sed. Numquam velit numquam est. Adipisci aliquam amet numquam numquam. Adipisci etincidunt amet ipsum tempora. Dolor non labore sit numquam quiquia. Aliquam quiquia est non.

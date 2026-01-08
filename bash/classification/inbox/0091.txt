@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: aliquam@quisquam.com
+RCPT: me@mymail.com
+SUBJECT: Ut amet voluptatem dolor neque ipsum sit.
+BODY: Amet sit labore ipsum. Neque velit ut adipisci labore porro quiquia. Voluptatem ut etincidunt sit sit quaerat quaerat ipsum. Quaerat ut quisquam etincidunt tempora dolorem neque magnam. Consectetur est amet quaerat. Est modi est quiquia ut quisquam. Porro consectetur velit ipsum adipisci labore sed. Etincidunt etincidunt ipsum amet. Modi consectetur velit velit etincidunt est. Quisquam voluptatem magnam etincidunt consectetur.

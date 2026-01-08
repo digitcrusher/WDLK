@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: numquam@non.com
+RCPT: me@mymail.com
+SUBJECT: Dolorem non neque amet aliquam.
+BODY: Dolor magnam numquam dolor est. Numquam quiquia est est quisquam dolor. Labore magnam eius quisquam voluptatem sed numquam. Ut etincidunt magnam numquam amet. Porro labore est numquam. Sed voluptatem numquam consectetur dolor. Dolorem quiquia etincidunt magnam non consectetur dolorem dolor.

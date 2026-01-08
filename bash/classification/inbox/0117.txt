@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: adipisci@non.com
+RCPT: me@mymail.com
+SUBJECT: Porro modi tempora voluptatem consectetur adipisci.
+BODY: Quisquam sit dolore dolor ut. Consectetur voluptatem consectetur quisquam quaerat. Modi quisquam numquam magnam. Velit porro porro tempora velit numquam. Adipisci neque neque numquam. Neque velit magnam labore aliquam amet eius etincidunt. Non voluptatem labore numquam ipsum ut. Consectetur labore non quaerat ipsum. Magnam sed ipsum quiquia aliquam. Est neque sed dolorem sed eius tempora.

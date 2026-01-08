@@ -1,0 +1,5 @@
+CATEGORY: misc
+FROM: eius@etincidunt.com
+RCPT: me@mymail.com
+SUBJECT: Sit velit etincidunt sit porro.
+BODY: Voluptatem aliquam magnam etincidunt. Numquam ut consectetur modi. Modi quiquia dolor sed sed modi aliquam quaerat. Labore numquam quisquam aliquam. Tempora est ut aliquam quiquia consectetur labore sit. Quisquam quisquam voluptatem quiquia quisquam dolore dolorem dolorem. Dolore quisquam quiquia dolorem tempora labore eius. Magnam dolor quiquia eius ipsum.

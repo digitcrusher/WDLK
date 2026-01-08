@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: tempora@neque.com
+RCPT: me@mymail.com
+SUBJECT: Etincidunt eius modi modi labore labore.
+BODY: Amet amet aliquam numquam labore tempora porro. Neque velit sit sed numquam dolorem. Amet etincidunt numquam modi ut dolorem dolor aliquam. Quaerat aliquam ut magnam sed. Dolorem magnam numquam tempora numquam porro sed magnam. Magnam dolorem consectetur velit neque modi ut sit. Quisquam dolore tempora porro quiquia etincidunt ipsum numquam.

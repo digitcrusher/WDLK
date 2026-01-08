@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: eius@adipisci.com
+RCPT: me@mymail.com
+SUBJECT: Sit voluptatem quiquia consectetur ipsum.
+BODY: Numquam dolorem consectetur est. Amet quisquam consectetur aliquam. Aliquam numquam sed labore aliquam quisquam numquam magnam. Sit etincidunt magnam ut. Quiquia non eius sed consectetur etincidunt amet etincidunt. Quiquia dolorem labore dolor. Quisquam modi quisquam tempora tempora. Magnam sed quiquia neque dolor dolor. Est amet eius adipisci.

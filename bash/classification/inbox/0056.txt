@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: ipsum@dolore.com
+RCPT: me@mymail.com
+SUBJECT: Voluptatem ut quisquam neque modi ut consectetur.
+BODY: Adipisci ipsum voluptatem voluptatem quaerat. Dolore labore magnam adipisci non dolorem. Adipisci labore quaerat dolore quaerat sed velit. Velit eius eius tempora tempora voluptatem modi. Voluptatem non quaerat est voluptatem aliquam sit. Sed quisquam quiquia sed etincidunt etincidunt.

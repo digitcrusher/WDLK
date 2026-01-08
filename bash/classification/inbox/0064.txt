@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: magnam@velit.com
+RCPT: me@mymail.com
+SUBJECT: Numquam adipisci numquam tempora.
+BODY: Est quaerat adipisci dolore porro amet velit quiquia. Tempora tempora quisquam sed quiquia numquam quiquia quiquia. Dolore sed quisquam neque porro est aliquam amet. Est consectetur ipsum eius sed. Modi tempora quaerat labore quisquam numquam porro amet. Numquam velit consectetur ut porro non velit.

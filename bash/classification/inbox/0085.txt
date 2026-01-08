@@ -1,0 +1,5 @@
+CATEGORY: misc
+FROM: sit@dolor.com
+RCPT: me@mymail.com
+SUBJECT: Etincidunt porro magnam etincidunt numquam quisquam.
+BODY: Porro ut adipisci quiquia velit porro. Etincidunt labore adipisci quiquia quaerat. Porro magnam eius sit porro magnam numquam tempora. Aliquam quisquam sed quisquam. Sed labore quiquia magnam ut numquam ut. Dolor tempora dolore ipsum.

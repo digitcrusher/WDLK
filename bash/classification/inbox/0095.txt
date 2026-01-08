@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: eius@aliquam.com
+RCPT: me@mymail.com
+SUBJECT: Labore non aliquam labore magnam.
+BODY: Sit ut dolor amet dolore velit eius consectetur. Eius dolorem ut velit dolore. Dolorem tempora dolore sed numquam. Quiquia dolor quiquia dolor. Est quiquia porro est non. Dolor modi amet modi sit. Adipisci sit etincidunt consectetur.

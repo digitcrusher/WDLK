@@ -1,0 +1,5 @@
+CATEGORY: misc
+FROM: aliquam@neque.com
+RCPT: me@mymail.com
+SUBJECT: Porro consectetur voluptatem numquam eius quiquia eius numquam.
+BODY: Etincidunt sed dolorem adipisci modi. Numquam non dolorem numquam etincidunt neque tempora porro. Ipsum quiquia porro sit quisquam magnam porro. Ipsum quisquam eius adipisci dolorem dolorem neque. Non quisquam dolore velit aliquam eius magnam.

@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: magnam@sed.com
+RCPT: me@mymail.com
+SUBJECT: Velit quiquia aliquam dolorem numquam etincidunt dolorem aliquam.
+BODY: Magnam aliquam amet non. Quiquia porro ipsum ipsum tempora modi non dolorem. Aliquam voluptatem aliquam voluptatem. Labore dolorem sit sit ipsum ut neque. Voluptatem magnam numquam velit est est neque. Sit non modi amet sed dolorem sit. Sed sed quaerat sit velit. Modi ipsum etincidunt amet. Dolorem porro numquam dolorem dolorem consectetur.

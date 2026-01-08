@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: labore@quisquam.com
+RCPT: me@mymail.com
+SUBJECT: Quisquam magnam dolor voluptatem neque dolor.
+BODY: Quaerat amet ut neque. Amet ipsum amet sit amet. Etincidunt velit sed non amet ipsum dolore. Ut aliquam eius non tempora magnam dolore est. Voluptatem etincidunt consectetur dolore est est ipsum quaerat. Dolore ipsum aliquam dolor. Non quisquam adipisci neque numquam consectetur.

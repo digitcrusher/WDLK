@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: non@adipisci.com
+RCPT: me@mymail.com
+SUBJECT: Quiquia tempora ipsum porro aliquam amet labore adipisci.
+BODY: Eius etincidunt amet aliquam eius quisquam modi velit. Dolor labore tempora dolorem porro. Magnam consectetur dolore ipsum dolor tempora voluptatem adipisci. Amet labore dolorem neque sit quiquia. Ut sed eius velit dolor dolore ipsum. Ut sed ipsum etincidunt voluptatem neque. Dolore dolor dolor est. Ipsum labore ipsum dolorem. Labore velit tempora consectetur.

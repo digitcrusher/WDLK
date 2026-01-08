@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: amet@est.com
+RCPT: me@mymail.com
+SUBJECT: Dolorem quisquam eius sit velit.
+BODY: Consectetur velit porro sed quisquam amet ut porro. Magnam numquam modi quaerat labore ut magnam. Velit quaerat labore ipsum aliquam. Non dolor consectetur adipisci sit. Aliquam est velit quiquia dolorem dolorem voluptatem sed. Sed adipisci consectetur est dolor aliquam. Quaerat quaerat modi porro ut magnam sit. Amet sed non non ipsum ipsum neque. Magnam labore dolorem ipsum.

@@ -1,0 +1,5 @@
+CATEGORY: important
+FROM: tempora@dolor.com
+RCPT: me@mymail.com
+SUBJECT: Amet tempora modi eius velit voluptatem non magnam.
+BODY: Aliquam dolore est numquam modi porro. Neque sed velit quiquia voluptatem adipisci. Labore non eius dolore porro labore porro. Sit modi velit numquam. Magnam porro dolorem non. Numquam porro etincidunt ut quiquia. Adipisci eius velit magnam adipisci quaerat ut. Eius ut magnam ipsum ut dolorem. Quiquia amet eius velit magnam.

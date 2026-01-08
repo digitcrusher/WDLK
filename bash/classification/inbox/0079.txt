@@ -1,0 +1,5 @@
+CATEGORY: misc
+FROM: modi@eius.com
+RCPT: me@mymail.com
+SUBJECT: Amet adipisci est eius.
+BODY: Numquam voluptatem ipsum amet numquam quaerat quiquia etincidunt. Non ut sit est. Etincidunt quaerat modi etincidunt labore sit est labore. Aliquam dolore modi velit ut labore. Voluptatem modi tempora quisquam amet dolorem. Modi consectetur est quiquia velit eius.

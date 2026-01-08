@@ -1,0 +1,5 @@
+CATEGORY: urgent
+FROM: tempora@dolor.com
+RCPT: me@mymail.com
+SUBJECT: Est etincidunt modi non.
+BODY: Eius quisquam etincidunt sit numquam quisquam ipsum modi. Sit quisquam tempora neque quisquam magnam. Neque quaerat dolorem neque porro porro aliquam labore. Est labore est adipisci sit est. Ipsum adipisci ut sit est. Quaerat quaerat dolorem labore sed tempora porro. Velit quiquia consectetur etincidunt etincidunt magnam quaerat quiquia. Sit sed dolor dolorem amet labore adipisci. Voluptatem dolor non amet ipsum amet.

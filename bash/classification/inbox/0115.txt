@@ -1,0 +1,5 @@
+CATEGORY: misc
+FROM: dolore@dolorem.com
+RCPT: me@mymail.com
+SUBJECT: Porro dolor amet amet ut.
+BODY: Aliquam consectetur quaerat quaerat eius adipisci. Voluptatem tempora porro ut magnam. Consectetur dolorem velit ipsum sit neque. Eius etincidunt labore tempora modi. Dolore voluptatem eius sit dolorem sed. Magnam dolore est sed eius consectetur ipsum.

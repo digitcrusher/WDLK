@@ -1,0 +1,5 @@
+CATEGORY: regular
+FROM: dolorem@quiquia.com
+RCPT: me@mymail.com
+SUBJECT: Etincidunt eius consectetur sit quiquia.
+BODY: Dolorem ut quiquia consectetur labore quisquam ipsum. Adipisci etincidunt etincidunt dolor. Neque eius labore porro. Neque modi velit ut consectetur sit ut adipisci. Sit dolore porro ipsum quaerat numquam eius.
