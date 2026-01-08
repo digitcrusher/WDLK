@@ -15,6 +15,6 @@ for file in "$path_to_inbox"/*; do
 		category="unknown"
 	fi
 	mkdir -p "$path_to_output/$category"
-	cp "$file" "$path_to_output/$category"/
+	mv "$file" "$path_to_output/$category"/
 	echo "Plik $file został przeniesiony do katalogu $path_to_output/$category"
 done
