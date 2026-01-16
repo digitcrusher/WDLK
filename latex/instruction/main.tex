@@ -1,0 +1,103 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[polish]{babel}
+
+\usepackage{amsmath,float,graphicx,hyperref,subcaption}
+\graphicspath{{screenshots/}}
+
+\title{Tworzenie maszyn wirtualnych KVM za pomocą virt-managera}
+\author{Karol Łacina}
+\date{16 stycznia 2026}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+virt-manager to prosty w użyciu i możliwe że najpopularniejszy graficzny menedżer pozwalający na tworzenie, uruchamianie i zarządzanie maszynami wirtualnymi typu KVM na Linuxie. Hiperwizor KVM (skrót od \textit{Kernel-based Virtual Machine}) w przeciwieństwie do innych popularnych platform wirtualizacji takich jak VirtualBox czy VMWare działa bezpośrednio w warstwie jądra, co czyni go znacznie atrakcyjniejszym pod kątem wydajnościowym od innych rozwiązań. Głównym odbiorcą KVM co prawda są poważne serwerownie i przedsiębiorstwa, ale jak zaraz się przekonamy, zwykły użytkownik też może z łatwością korzystać z tej zdobyczy techniki kernel developmentu.
+\end{abstract}
+
+\section{Krok po kroku}
+
+\subsection{Instalacja programu}
+
+Po zainstalowaniu pakietu \texttt{virt-manager} za pomocą menedżera pakietów twojego systemu i przed przystąpieniem do rzeczywistego tworzenia maszyny musimy wpierw podjąć małe kroki przygotowawcze w postaci następujących komend:
+
+\begin{verbatim}
+   sudo usermod $(whoami) -aG libvirt
+   sudo virsh net-autostart default
+\end{verbatim}
+
+Pierwsza komenda nadaje naszemu użytkownikowi uprawnienia do zarządzania maszynami wirtualnymi bez konieczności podawania hasła za każdym razem. Druga pozbywa się potrzeby ręcznego włączania domyślnej wirtualnej sieci dla maszyn wirtualnych po restarcie komputera.
+
+\subsection{Tworzenie maszyny wirtualnej}
+
+Teraz możemy przejść do kroków, przez które będziemy musieli przechodzić za każdym razem, gdy będziemy chcieli stworzyć nową maszynę wirtualną.
+
+Powiedzmy, że chcemy uruchomić najnowszą wersję Ubuntu na naszym komputerze. W tym celu pobieramy obraz ISO ze \href{https://ubuntu.com/download/desktop}{strony Ubuntu} i przenosimy go do katalogu, do którego użytkownik \texttt{libvirt-qemu} ma dostęp:
+
+\begin{verbatim}
+   sudo mv sciezka/do/obrazu.iso /var/lib/libvirt/images/
+\end{verbatim}
+
+Naturalnie chciałoby się trzymać swoje obrazy instalacyjne tam, gdzie się chcę je trzymać, a nie w jakimś dziwnym katalogu, do którego nawet nie mamy dostępu bez sudo; i w teorii możnaby tak zrobić za pomocą ACLów, ale mi się to osobiście jeszcze nie udało. Zatem musimy poprzestać na takim rozwiązaniu.
+
+Otwieramy aplikację skrywającą się pod nazwą ``Virtual Machine Manager'' i rozpoczynamy proces tworzenia nowej maszyny klikając w przycisk plusa.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\linewidth]{1.png}
+\caption{Otwieranie kreatora maszyn wirtualnych}
+\end{figure}
+
+Kolejne kroki kreatora bardzo przypominają inne popularne wirtualizatory. Zresztą, przedmiotem obu jest to samo: maszyny wirtualne.
+
+Wpierw musimy określić, w który z czterech podanych sposobów chcemy zainstalować system operacyjny na nowej maszynie. W naszym przypadku mamy obraz ISO, z którego chcemy zainstalować system.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\linewidth]{2.png}
+\caption{Wybieranie sposobu instalacji}
+\end{figure}
+
+Potem musimy wybrać obraz ISO, który jeszcze niedawno przesunęliśmy w ten tajemniczy katalog.
+
+\begin{figure}[H]
+\centering
+\subcaptionbox{Otworzenie okna wyboru obrazu}{\includegraphics[width=0.49\linewidth]{3.png}}
+\subcaptionbox{Wybranie obrazu}{\includegraphics[width=0.49\linewidth]{4.png}}
+\subcaptionbox{Zatwierdzenie wyboru}{\includegraphics[width=0.49\linewidth]{5.png}}
+\subcaptionbox{Przejście do następnego kroku}{\includegraphics[width=0.49\linewidth]{6.png}}
+\caption{Ustawianie obrazu instalacyjnego}
+\end{figure}
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\linewidth]{7.png}
+\caption{Przydzielanie pamięci RAM i wątków procesora}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\linewidth]{8.png}
+\caption{Alokacja przestrzeni dyskowej}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\linewidth]{9.png}
+\caption{Przypisanie nazwy maszyny i podsumowanie kroków}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\linewidth]{10.png}
+\caption{Włączanie domyślnej sieci wirtualnej}
+\end{figure}
+
+W tym momencie virt-manager powinien automatycznie otworzyć podgląd nowopowstałej maszyny i uruchomić ją. Jeśli jednak tak się nie stało, to możemy zrobić to samodzielnie wracając do głownego okna aplikacji i klikając w ``Open'' oraz przycisk trójkąta równobocznego obróconego macierzą $\left(\begin{smallmatrix}0&1\\-1&0\end{smallmatrix}\right)$.
+
+Smacznego.
+
+\end{document}
